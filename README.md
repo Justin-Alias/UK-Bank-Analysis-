@@ -21,7 +21,7 @@ Initially, the raw sales data was processed and analyzed using Excel. This invol
 
 Tableau Integration:
 
-Following the Excel analysis, the processed data was visualized and further analyzed using Tableau. The Tableau workbook serves as a dynamic platform for interactive visualization, allowing users to explore sales trends, regional variations, and product performance in depth. Utilizing Tableau's rich features, such as dashboards, filters, and drill-down capabilities, users can interactively dissect the data to gain actionable insights.
+Following the Excel analysis, the processed data was visualized and further analyzed using Tableau. The Tableau workbook serves as a dynamic platform for interactive visualization, allowing users to explore sales trends, regional variations in depth. Utilizing Tableau's rich features, such as dashboards, filters, and drill-down capabilities, users can interactively dissect the data to gain actionable insights.
 
 ## Findings:
 
